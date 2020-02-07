@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: @mrjonleek
+  site_title: '@mrjonleek'
   favicon_image: /images/favicon.png
 
 header_settings:
