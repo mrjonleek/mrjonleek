@@ -1,6 +1,6 @@
-site: Personal Jekyll Theme
+site: @mrjonleek
 
-url: 
+url: https://mrjonleek.com
 baseurl: 
 
 collections:
