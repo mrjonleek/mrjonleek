@@ -1,32 +1,19 @@
 ---
 title: About me
-subtitle: Personal is the perfect theme for developers, designers and other creatives.
-description: Personal is the perfect theme for developers, designers and other creatives.
+subtitle: My name is Jonathan Leek. I am motivated by innovation, fueled by information and I pocess an endless appetite for knowledge. 
+description: I am a general technoligist with an interest in developing solutions.
 featured_image: /images/demo/about.jpg
 ---
 
-## Features
+## Who Am I
+I've spent that last two (or is it three now?) decades developing software and infrastructure solutions for enterprise business challenges. I've worked with companies large and small and now I work for the venerable and widely respected open-source adovate, Red Hat.
 
-We've packed Personal full of powerful features to help showcase your work:
+As a Specialist Solutions Architect at Red Hat where I focus on the Middleware product portfolio to provide comprehensive technology solutions for some of the worlds largest and most complex IT challenges at some of the worlds largest IT innovators and service providers - and this brings me, and hopefully my clients, a great deal of satisfaction.
 
-* Beautiful, minimal design
-* Large header image and single column post layout
-* Responsive – works perfectly on all devices
-* Portfolio post type
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
+Outside of work I enjoy membership as a global citizen, traveling as frequently as possible to places previously unknown to me and engagine in new experiences. My hobbies include just about any outdoor recreational activity but few things top summiting a challenging peak.
 
-## Get Personal
+A few things that are important to me:
 
-Personal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
-
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
+* Reduce global emissions by making IT more efficient
+* Improve the lives of my fellow developers with innovative technology
+* Support the smart innovators that share who seek to improve the world
