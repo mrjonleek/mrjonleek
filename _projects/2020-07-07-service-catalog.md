@@ -1,8 +1,8 @@
 ---
-title: 'Demo Project'
-subtitle: 'This is a demo'
-date: 2018-06-30 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+title: 'Service Catalog'
+subtitle: 'Istio Service Mesh &amp; 3scale API Management'
+date: 2020-07-07 00:00:00
+description: How we used the Red Hat 3scale API Manager with Istio Service Mesh to automate service discovery and create an API Service Catalog.
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
