@@ -2,7 +2,7 @@
 title: About me
 subtitle: My name is Jonathan Leek. I am motivated by innovation, fueled by information and I pocess an endless appetite for knowledge. 
 description: I am a general technoligist with an interest in developing solutions.
-featured_image: /images/demo/about.jpg
+featured_image: /images/pages/paris-sunset.jpg
 ---
 
 ## Who Am I
