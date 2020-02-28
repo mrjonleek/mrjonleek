@@ -6,7 +6,7 @@ featured_image: /images/pages/paris-sunset.jpg
 ---
 
 ## Who Am I
-My name is Jonathan Leek. I've spent that last two (or is it three now?) decades developing software and infrastructure solutions for enterprise business challenges. I've worked with companies large and small and now I work for the venerable and widely respected open-source adovate, Red Hat.
+I've spent that last two decades developing software and infrastructure solutions for enterprise business challenges. I've worked with companies large and small and now I work for the venerable and widely respected open-source adovate, Red Hat.
 
 As a Specialist Solutions Architect at Red Hat I focus on the Middleware product portfolio to provide comprehensive technology solutions to some of the worlds largest and most complex IT challenges at some of the worlds largest IT innovators and service providers - and this brings me, and hopefully my clients, a great deal of satisfaction.
 
@@ -16,4 +16,4 @@ A few things that are important to me:
 
 * Reduce global emissions by making IT more efficient
 * Improve the lives of my fellow developers with innovative technology
-* Support the smart innovators that share who seek to improve the world
+* Support the smart innovators who seek to improve the world
