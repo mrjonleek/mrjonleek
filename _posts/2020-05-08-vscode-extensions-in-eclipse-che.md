@@ -11,7 +11,7 @@ We're all aware of the buzz about cloud-native applications. But a new trend is 
 
 In this short article, we'll describe how to port the [Vim Visual Studio Code extension][1] to an Eclipse Che plug-in and add it to a Workspace.
 
-Note: My customer is using [CodeReady Workspaces][2] a Red Hat supported version of [Eclipse Che][3] for OpenShift.
+Note: My customer is using [CodeReady Workspaces][2], an enterprise ready Red Hat supported version of [Eclipse Che][3] for OpenShift.
 
 Let's get started!
 
