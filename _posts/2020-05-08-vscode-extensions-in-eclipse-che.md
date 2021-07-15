@@ -17,7 +17,7 @@ Let's get started!
 
 ## Creating the Plug-in Wrapper
 
-The Eclipse Che API is compatible with Visual Studio Code. Plug-ins are isolated and provide their own dependencies packaged in containers and run as sidecars to the pod.
+The Eclipse Che API is compatible with the Visual Studio Code IDE. Plug-ins are isolated and provide their own dependencies packaged in containers and run as sidecars to the pod.
 
 We'll start by creating a new public repository to store our plug-in source code and then define our plug-in meta data.
 
