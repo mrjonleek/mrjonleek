@@ -7,7 +7,7 @@ featured_image: '/images/blog/eclipse-che-workspace.jpg'
 
 ## Introduction
 
-We're all aware of the buzz about cloud-native applications. But a new trend is emerging: **cloud-native development**. One of my clients is moving towards "developing in the cloud" but they rely on a specific Visual Studio Code extension that scans code for security vulnerabilities. Fortunately, Visual Studio Extensions are compatible with Eclipse Che version 7.9.
+We're all aware of the buzz about cloud-native applications. But a new trend is emerging: **cloud-native development**. One of my customers is moving towards "developing in the cloud" but they rely on a specific Visual Studio Code extension that scans code for security vulnerabilities. Fortunately, Visual Studio Extensions are compatible with Eclipse Che version 7.9.
 
 In this short article, we'll describe how to port the [Vim Visual Studio Code extension][1] to an Eclipse Che plug-in and add it to a Workspace.
 
