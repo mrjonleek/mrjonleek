@@ -1,4 +1,4 @@
-site: @mrjonleek
+site: '@mrjonleek'
 
 url: https://mrjonleek.com
 baseurl: 
