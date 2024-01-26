@@ -5,9 +5,9 @@ description: Motivated by innovation, fueled by information.
 featured_image: /images/pages/about-me.png
 ---
 
-I am proud associate of the worlds largest enterprise open source company, Red Hat. 
+I am proud associate of the worlds largest enterprise open source company, [Red Hat](https://www.redhat.com). 
 
-In 2019 Red Hat was aqcuired by IBM to define their Cloud & Cognitive Computing portfolio.
+In 2019 Red Hat was aqcuired by IBM to define their [Cloud & Cognitive Computing](https://www.ibm.com/cloud/redhat) portfolio.
 
 As an Emerging Technologies Specialist I focus on customers—developing a deep understanding of critical business drivers and evaluating technology solutions that support essential outcomes.
 
