@@ -1,7 +1,7 @@
 site: '@mrjonleek'
 
-url: https://www.mrjonleek.com
-baseurl: 
+url: https://mrjonleek.com
+baseurl: https://mrjonleek.com
 
 collections:
   pages:

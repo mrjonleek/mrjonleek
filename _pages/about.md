@@ -1,16 +1,19 @@
 ---
 title: About me
-subtitle: My name is Jonathan Leek. I am motivated by innovation, fueled by information and I pocess an endless appetite for knowledge. 
-description: I am a general technoligist with an interest in developing solutions.
-featured_image: /images/pages/paris-sunset.jpg
+subtitle: Motivated by innovation, fueled by information. 
+description: Motivated by innovation, fueled by information.
+featured_image: /images/pages/about-me.png
 ---
 
-## Who Am I
-I've spent that last two decades developing software and infrastructure solutions for enterprise business challenges. I've worked with companies large and small and now I work for the venerable and widely respected open-source adovate, Red Hat.
+I am proud associate of the worlds largest enterprise open source company, Red Hat. 
 
-As a Specialist Solutions Architect at Red Hat I focus on the Middleware product portfolio to provide comprehensive technology solutions to some of the worlds largest and most complex IT challenges at some of the worlds largest IT innovators and service providers - and this brings me, and hopefully my clients, a great deal of satisfaction.
+In 2019 Red Hat was aqcuired by IBM to define their Cloud & Cognitive Computing portfolio.
 
-Outside of work I enjoy membership as a global citizen, traveling as frequently as possible to places previously unknown to me and engaging in new experiences. My hobbies include just about any outdoor recreational activity but few things top summiting a challenging peak.
+As an Emerging Technologies Specialist I focus on customers—developing a deep understanding of critical business drivers and evaluating technology solutions that support essential outcomes.
+
+I provide hyperscaler egnostic hybrid-cloud platforms for application development, container orchestration and AI. 
+
+Outside of work I enjoy time with my family and friends and my membership as a global citizen traveling whenever and wherever possible. I also enjoy geography and history, especially as it pertains to wine. Check out some of my community projects and open source initiatives.
 
 A few things that are important to me:
 

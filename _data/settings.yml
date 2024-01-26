@@ -33,7 +33,7 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
-  facebook_url: 'https://www.facebook.com/mrjonleek'
+  facebook_url: ''
   twitter_url: ''
   instagram_url: ''
   snapchat_url: ''
