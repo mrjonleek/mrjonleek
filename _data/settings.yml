@@ -12,10 +12,8 @@ menu_settings:
       url: '/'
     - title: 'Blog'
       url: '/blog/'
-    - title: 'About'
+    - title: 'README.md'
       url: '/about'
-    - title: 'Contact'
-      url: '/contact'
 
 footer_settings:
   footer_tagline:

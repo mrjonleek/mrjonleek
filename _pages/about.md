@@ -13,10 +13,13 @@ As an Emerging Technologies Specialist I focus on customers—developing a deep 
 
 I provide hyperscaler egnostic hybrid-cloud platforms for application development, container orchestration and AI. 
 
-Outside of work I enjoy time with my family and friends and my membership as a global citizen traveling whenever and wherever possible. I also enjoy geography and history, especially as it pertains to wine. Check out some of my community projects and open source initiatives.
+Outside of work I enjoy time with family and friends and my membership as a global citizen traveling whenever and wherever possible. I also enjoy geography and history, especially as it pertains to wine. Check out some of my community projects and open source initiatives.
 
 A few things that are important to me:
 
 * Reduce global emissions by making IT more efficient
 * Improve the lives of my fellow developers with innovative technology
 * Support the smart innovators who seek to improve the world
+
+## Ping me
+{% include contact-form.html %}
