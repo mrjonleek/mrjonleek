@@ -5,7 +5,7 @@ description: Motivated by innovation, fueled by information.
 featured_image: /images/pages/about-me.png
 ---
 
-I am proud associate of the worlds largest enterprise open source company, [Red Hat](https://www.redhat.com). 
+I am a proud associate of the worlds largest enterprise open source company, [Red Hat](https://www.redhat.com). 
 
 In 2019 Red Hat was aqcuired by IBM to define their [Cloud & Cognitive Computing](https://www.ibm.com/cloud/redhat) portfolio.
 
