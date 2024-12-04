@@ -2,50 +2,51 @@
 layout: default
 title: "@mrjonleek"
 description: My personal website is a collection of code snippets and things I find interesting..
-featured_image: /images/rh-hq.jpg
+featured_image: /images/pages/about-me.png
 ---
 
 <section class="hero">
+  <div
+    class="hero__image"
+    style="background-image: url({{ page.featured_image | relative_url }})"
+  >
+    <div class="hero__overlay"></div>
+  </div>
 
-	<div class="hero__image" style="background-image: url({{ page.featured_image | relative_url }})">
-		<div class="hero__overlay"></div>
-	</div>
+  <div class="wrap">
+    <h1 style="font-size: 50px; line-height: 0.5">
+      Community <small>+</small> Technology
+    </h1>
+    <h2 style="color: #fff; line-height: 0.5">learn. organize. contribute.</h2>
+    <p>Technology enthusiast and open source community contributor.</p>
 
-	<div class="wrap">
-
-		<h1>My website</h1>
-		<p>It's slightly better than a collection of Gists.</p>
-
-		{% include socials.html %}
-
-	</div>
-
+    {% include socials.html %}
+  </div>
 </section>
 
 <section class="listing">
+  <div class="wrap">
+    {% for project in site.projects reversed %}
 
-	<div class="wrap">
+    <article class="post">
+      <div class="post__image-wrap">
+        <div
+          class="post__image"
+          style="background-image: url({{ project.featured_image | relative_url }})"
+        ></div>
+      </div>
 
-		{% for project in site.projects reversed %}
+      <div class="post__content-wrap">
+        <div class="post__content">
+          <h2 class="post__title">
+            <a href="{{ project.url | relative_url }}">{{ project.title }}</a>
+          </h2>
+          <p class="post__subtitle">{{ project.subtitle }}</p>
+          <p class="post__description">{{ project.description }}</p>
+        </div>
+      </div>
+    </article>
 
-		<article class="post">
-
-			<div class="post__image-wrap">
-				<div class="post__image" style="background-image: url({{ project.featured_image | relative_url }})"></div>
-			</div>
-
-			<div class="post__content-wrap">
-				<div class="post__content">
-					<h2 class="post__title"><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h2>
-					<p class="post__subtitle">{{ project.subtitle }}</p>
-					<p class="post__description">{{ project.description }}</p>
-				</div>
-			</div>
-
-		</article>
-
-		{% endfor %}
-
-	</div>
-
+    {% endfor %}
+  </div>
 </section>
