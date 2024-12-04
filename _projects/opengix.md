@@ -10,6 +10,8 @@ Charts, graphs, maps and diagrams are some of the most exciting formats for pres
 
 Working with interactive data is challenging. The OpenGIX project provides standards and tools for working with complex geometrical data models and objects.
 
+**I support the [OpenGIX project](https://opengix.org)** so that I can benefit from it's continued development in hobby projects where i work complex data-driven maps and charts.
+
 ## About OpenGIX
 
 GIX is an intialism of geometrical interpolation and transformation—fancy words that suggest usage and function in that geometry can be imbued with artibrary data points and serialized into approachable, easy to use layers.
