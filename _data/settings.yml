@@ -11,7 +11,7 @@ menu_settings:
     - title: 'Blog'
       url: 'https://medium.com/@mrjonleek'
     - title: 'README.md'
-      url: '/about'
+      url: 'https://medium.com/@mrjonleek/about'
 
 footer_settings:
   footer_tagline:
